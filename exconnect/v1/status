@@ -1,0 +1,8 @@
+{
+	"global_conn_enabled" : true,
+	"internet_connectivity_status" : true,
+	"roaming_availability_status" : -1,
+	"satcom_connectivity_generator" : "",
+	"time_until_coverage_change" : 0,
+	"total_coverage_remaining" : 0
+}
